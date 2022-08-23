@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Migra';
+    src: url('Migra-Extralight.eot');
+    src: url('Migra-Extralight.eot?#iefix') format('embedded-opentype'),
+        url('Migra-Extralight.woff2') format('woff2'),
+        url('Migra-Extralight.woff') format('woff'),
+        url('Migra-Extralight.ttf') format('truetype'),
+        url('Migra-Extralight.svg#Migra-Extralight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Sans';
+    src: url('PlusJakartaSans-Light.eot');
+    src: url('PlusJakartaSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('PlusJakartaSans-Light.woff2') format('woff2'),
+        url('PlusJakartaSans-Light.woff') format('woff'),
+        url('PlusJakartaSans-Light.ttf') format('truetype'),
+        url('PlusJakartaSans-Light.svg#PlusJakartaSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
